@@ -1,0 +1,8 @@
+F:\Training Stuff\Dot netTraining\DAY-7\ConAppEnum\ConAppEnum\bin\Debug\ConAppEnum.exe.config
+F:\Training Stuff\Dot netTraining\DAY-7\ConAppEnum\ConAppEnum\bin\Debug\ConAppEnum.exe
+F:\Training Stuff\Dot netTraining\DAY-7\ConAppEnum\ConAppEnum\bin\Debug\ConAppEnum.pdb
+F:\Training Stuff\Dot netTraining\DAY-7\ConAppEnum\ConAppEnum\obj\Debug\ConAppEnum.csproj.AssemblyReference.cache
+F:\Training Stuff\Dot netTraining\DAY-7\ConAppEnum\ConAppEnum\obj\Debug\ConAppEnum.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Dot netTraining\DAY-7\ConAppEnum\ConAppEnum\obj\Debug\ConAppEnum.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Dot netTraining\DAY-7\ConAppEnum\ConAppEnum\obj\Debug\ConAppEnum.exe
+F:\Training Stuff\Dot netTraining\DAY-7\ConAppEnum\ConAppEnum\obj\Debug\ConAppEnum.pdb
